@@ -18,3 +18,5 @@ do
     cat $f | wc -l
 done
 echo "Fin de la ejecucion"
+
+# Pregunta 3 del ejercicio
