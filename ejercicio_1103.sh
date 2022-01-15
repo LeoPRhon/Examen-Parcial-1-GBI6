@@ -31,7 +31,7 @@ var1=0
 for f in $(ls *.txt);
 do
     echo "El numero de columna es:" ;
-    PART1=$(head -n 1 $f | awk '{print NF}')
+    PART1=$(head -n 1 $f | awk '{print NF}');
     echo $PART1;
 
     echo "El numero de filas es:" ;
