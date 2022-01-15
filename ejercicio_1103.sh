@@ -53,11 +53,9 @@ do
     fi
     
 done
-echo "Fin de la ejecucion";
-echo "------------------------------------------------------";
+
 echo El documento con mayor numero de filas es:$fila ;
 echo con un total de:$var;
 
 echo El documento con mayor numero de columnas es:$columna ;
 echo con un total de:$var1;
-echo "------------------------------------------------------";
