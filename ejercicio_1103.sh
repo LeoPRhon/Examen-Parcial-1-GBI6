@@ -11,8 +11,6 @@ wc -l n1.txt;
 echo "Fin de la ejecucion"
 
 # Pregunta 2 del ejercicio
-cd Saavedra2013
-
 echo "Pregunta 2 del ejercicio 1.10.3";
 for f in $(ls *.txt);
 do
@@ -25,7 +23,6 @@ echo "Fin de la ejecucion"
 
 # Pregunta 3 del ejercicio
 
-cd Saavedra2013
 var=0
 var1=0
 for f in $(ls *.txt);
