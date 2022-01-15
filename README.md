@@ -26,9 +26,13 @@ Memoria: 16384 MB RAM
 
 UNIX
 
+Git Bash
+
 Visual Studio Code
 
 Python
+
+Jupyter Notebook
 
 Git Hub Desktop
 
