@@ -1,0 +1,3 @@
+pwd
+
+mkdir test1
