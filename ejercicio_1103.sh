@@ -3,6 +3,7 @@ cd Saavedra2013
 
 # Pregunta 1 del ejercicio
 
+echo "Pregunta 1 del ejercicio 1.10.3";
 echo "El ńumero de columnas es:" ;
 head -n1 n1.txt | grep -o " " | wc -l ;
 echo "El numero de filas es:" ;
@@ -11,6 +12,8 @@ echo "Fin de la ejecucion"
 
 # Pregunta 2 del ejercicio
 cd Saavedra2013
+
+echo "Pregunta 2 del ejercicio 1.10.3";
 for f in $(ls *.txt);
 do
     echo "El numero de columas es:" ;
